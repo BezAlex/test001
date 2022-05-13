@@ -1,1 +1,1 @@
-https://github.com/BezAlex/test001.git
+Get-Content C:\Windows\System32\drivers\etc\hosts
